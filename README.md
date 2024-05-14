@@ -26,3 +26,18 @@
 |moda|modp|mota|motp|idf1|idp|fp|size
 |----|----|----|----|----|----|----|----|
 |90.86|81.20|90.34|12.55|94.72|95.22|39|67.31MB|
+
+# 可视化，多视角行人追踪，姿态估计，面部识别，年龄性别估计
+
+|图1|图2|图3|
+|--|--|--|
+|![image](https://github.com/smallboxx/overlap-mcmtt/assets/127008146/9ecae98a-a4bc-4eca-a290-82d16344e3df)|![image](https://github.com/smallboxx/overlap-mcmtt/assets/127008146/1e48f463-7f92-4ae6-a64c-8edc26fd6864)|![image](https://github.com/smallboxx/overlap-mcmtt/assets/127008146/beeb5dad-01e9-440f-84ea-fee9b543c14d)
+
+# Flask数据可视化平台
+|图1|图2|
+|--|--|
+|![image](https://github.com/smallboxx/overlap-mcmtt/assets/127008146/d7c34c03-4f7f-4304-884d-27ff6da1d0cc)|![image](https://github.com/smallboxx/overlap-mcmtt/assets/127008146/ad9f5264-7b56-4be2-b256-13c65201ac9a)|
+
+
+
+
