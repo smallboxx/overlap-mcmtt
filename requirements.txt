@@ -1,0 +1,14 @@
+kornia
+matplotlib
+opencv-python
+lightning[extra]
+scipy
+einops
+numpy
+nuscenes-devkit
+lap
+motmetrics
+Pillow
+pytorch_metric_learning
+efficientnet_pytorch
+timm
