@@ -36,7 +36,7 @@
 # Flask数据可视化平台
 |图1|图2|
 |--|--|
-|![image](https://github.com/smallboxx/overlap-mcmtt/assets/127008146/d7c34c03-4f7f-4304-884d-27ff6da1d0cc)|![image](https://github.com/smallboxx/overlap-mcmtt/assets/127008146/ad9f5264-7b56-4be2-b256-13c65201ac9a)|
+|![image](https://github.com/smallboxx/overlap-mcmtt/assets/127008146/ba06b306-de1e-48aa-b9b1-2c6990d90013)|![image](https://github.com/smallboxx/overlap-mcmtt/assets/127008146/f2c8a9d4-925c-4cb7-bfe2-92a589eb119c)|
 
 
 
